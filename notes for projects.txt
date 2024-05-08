@@ -1,0 +1,27 @@
+Introduction:-
+
+--> An online whiteboard is a great tool for collaboration and remote communication. You can create diagrams,
+ flowcharts, drawings, and share notes all in real-time. You can also create presentations and comment on 
+ them.
+--> I times like covid when childrens are locked in home away form school, we can use this platform to help 
+   them visualise and also improve their handwritting. 
+-->By using tools such as online whiteboards, you can make remote working more simple for your entire team 
+   whether they are in or out of the office
+
+Goal:-
+--> With white board , we want students to have the ability to find the answers and present them just as a 
+    teacher would. It gives every student a voice regardless of their level.
+--> We want White Board to connect  with multiple collaborators who would be able to present their ideas.
+--> Yaha pe ak picture add kar de set kar ke jaisa thik lage.
+
+TECHNOLOGY:-
+->HTML
+->CSS
+->JAVASCRIPT
+->FIGMA
+->SVGs
+--> jo maine code ki pic send ki hai ak ko yaha chipka do
+
+Projects screenshot
+-> ak code ki photo
+-> ak white board ka jisme smile bna hua hai

@@ -1,0 +1,71 @@
+.container1{
+    width: 1000px;
+    height: 610px;
+    margin: 0 auto;
+    border: 5px solid rgb(82, 77, 68);
+   
+}
+.container2{
+    width: 993px;
+    height: 545px;
+    margin: 0 0 0 0;
+    border: 5px solid rgb(82, 77, 68);
+}
+
+.body1{
+    background-color: aliceblue;
+}
+
+
+#Vector {
+
+    stroke-dasharray: 2106;
+    stroke-dashoffset: 2106;
+    animation: sign 7s ease;
+    animation-fill-mode: forwards;
+    }
+    
+    @keyframes sign {
+        to {
+            stroke-dashoffset: 0;
+        }
+    }
+    
+    body{
+        text-align: center;
+    }
+    
+    .svgs{
+      margin-top: 70px;
+      margin-left: 190px;
+    }
+
+
+    #Vector1 {
+
+        stroke-dasharray: 2349;
+        stroke-dashoffset: 2349;
+        animation: sign 7s ease;
+        animation-fill-mode: forwards;
+        }
+        
+        @keyframes sign {
+            to {
+                stroke-dashoffset: 0;
+            }
+        }
+
+        #Vector2 {
+
+            stroke-dasharray: 3719;
+            stroke-dashoffset: 3719;
+            animation: sign 7s ease;
+            animation-fill-mode: forwards;
+            }
+            
+            @keyframes sign {
+                to {
+                    stroke-dashoffset: 0;
+                }
+            }
+
